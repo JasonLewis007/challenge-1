@@ -1,13 +1,14 @@
+/*css styling for page*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*body css styling*/
 body {
     background-color: #d9dcd6;
 }
-
+/*css styling for header class*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,16 +41,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*css styling for anchor*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*styling for paragraph*/
 p {
     font-size: 16px;
 }
-
+/*css styling for hero class*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +59,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*css styling for float-left class*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*css styling for float-right class*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/*css styling for content class*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*css styling for benefits class*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,55 +86,55 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*css styling for benefit-lead class*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*css styling for benefit class*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*css styling for benefit-cost class*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*css styling for benefit-lead h3*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*css styling for benefit-brand h3*/
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*css styling for benefit-cost h3*/
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*css styling for benefit-lead img class*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*css styling for benefit-brand img class*/
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*css styling for benefit-cost img class*/
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*css styling for classes in divs*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,7 +161,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*css styling for images*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,22 +173,22 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/*css styling search-engine-optimization for h2 class*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*css styling for online-reputation-management h2 class*/
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*css styling for social-media marketing h2 class*/
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*css styling for footer*/
 .footer {
     padding: 30px;
     clear: both;
